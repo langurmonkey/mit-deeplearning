@@ -12,6 +12,8 @@ opencv-python = "*"
 tqdm = "*"
 scipy = "*"
 mitdeeplearning = "*"
+torchvision = "*"
+torchsummary = "*"
 
 [dev-packages]
 
